@@ -1,0 +1,98 @@
+body
+{
+    background-color: aquamarine;
+}
+.navbar  li
+{
+  margin: 50px;
+  padding: 15px ;
+  display: inline-block;
+  overflow: hidden;
+  text-align: center;
+}
+.navbar
+{
+  width: 100%;
+  height: 200px;
+    background-color: rgb(43, 163, 167);
+    border-radius: 2%;
+   
+}
+.five ul li
+{
+  text-decoration: wavy;
+
+}
+.navbar a :hover
+{
+   background-color: yellowgreen;
+}
+
+.four
+{
+  background-color: brown;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+button
+{
+  position: left ;
+}
+
+.Donation
+{
+  background-image: url(https://tse3.mm.bing.net/th?id=OIP.k85ROl1-PxLAVN-ixvoqOwHaE8&pid=Api&P=0&w=254&h=169);
+  background-repeat: no-repeat;
+  background-size: 100% 8%;
+}
+.form container input
+{
+  margin: 2px;
+}
+#deposit
+{
+  background-color: yellow;
+}
+.Donation input
+{
+  background-color: pink
+}
+textarea
+{
+  background-color: pink;
+}
+.navbar
+{
+  background-image: url(https://static4.depositphotos.com/1017950/327/i/450/depositphotos_3270541-stock-photo-business.jpg);
+  background-size: 1000px 400px;
+
+}
+a:hover
+{
+  background-color:burlywood;
+  color: blue;
+}
+img
+{
+  width: 600px;
+  height: 650px;
+
+}
+.sanu
+{
+  width: 1000px;
+  height: 100px;
+}
+a
+{
+  color: red;
+  font-size: medium;
+}
+.footer
+{
+  background-color: rgb(240, 127, 255);
+
+}
